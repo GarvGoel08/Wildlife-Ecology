@@ -2,7 +2,7 @@
 
 # Assignment-3: Information and Network Security (IT407)
 
-**Unit:** Unit 2 - Cryptography  
+Unit 2 - Cryptography  
 </div>
 
 **Name:** Garv Goel  
