@@ -1,3 +1,4 @@
+<div align="center">
 
 # Assignment-3: Information and Network Security (IT407)
 
@@ -6,6 +7,8 @@
 **Name:** Garv Goel  
 **Roll Number:** 2K22/EE/108  
 **Date:** November 6, 2025
+
+</div>
 
 ---
 
